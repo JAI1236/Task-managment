@@ -2,18 +2,6 @@
 
 A full-stack task management web application built for an internship project. TaskFlow allows users to securely create, manage, organize, search, filter, and track their tasks with real-time updates.
 
-## 🚀 Live Demo
-
-**Live Application:**  
-https://taskflow-puce-chi-49.vercel.app/
-
-**Backend API Health Check:**  
-https://taskflow-is6g.onrender.com/api/health
-
-**Source Code:**  
-https://github.com/Alden673/Taskflow
-
----
 
 ## ✨ Features
 
